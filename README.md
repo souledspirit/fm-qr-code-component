@@ -47,7 +47,7 @@ A responsive QR code component solution for Frontend Mentor challenge. Built wit
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@souledspirit](https://www.frontendmentor.io/profile/souledspirit)
+- Twitter - [@souledspirit](https://www.twitter.com/souledspirit)
 
 ```
