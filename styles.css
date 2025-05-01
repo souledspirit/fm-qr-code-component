@@ -1,0 +1,73 @@
+:root {
+  /* Colors */
+  --white: hsl(0, 0%, 100%);
+  --slate-300: hsl(212, 45%, 89%);
+  --slate-500: hsl(216, 15%, 48%);
+  --slate-900: hsl(218, 44%, 22%);
+
+  /* Typography */
+  --font-body: 15px;
+  --font-family: "Outfit", sans-serif;
+  --font-regular: 400;
+  --font-bold: 700;
+
+  /* Layout */
+  --mobile-width: 375px;
+  --desktop-width: 1440px;
+}
+
+body {
+  background-color: var(--slate-300);
+  font-family: var(--font-family);
+  font-size: var(--font-body);
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  padding: 1rem;
+}
+
+.qr-card {
+  background-color: var(--white);
+  border-radius: 20px;
+  padding: 1rem;
+  max-width: 320px;
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.qr-image {
+  width: 100%;
+  border-radius: 10px;
+  display: block;
+}
+
+.qr-content h1 {
+  color: var(--slate-900);
+  font-weight: var(--font-bold);
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.qr-content p {
+  color: var(--slate-500);
+  font-weight: var(--font-regular);
+  margin: 0;
+}
+
+@media (min-width: 768px) {
+  .qr-card {
+    padding: 1.2rem;
+  }
+
+  .qr-content {
+    padding: 1.5rem;
+  }
+}
+
+.attribution {
+  margin-top: 6rem;
+}
