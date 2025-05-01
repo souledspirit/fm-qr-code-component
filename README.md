@@ -44,10 +44,9 @@ A responsive QR code component solution for Frontend Mentor challenge. Built wit
   --grayish-blue: hsl(220, 15%, 55%);
   --dark-blue: hsl(218, 44%, 22%);
 }
+```
 
 ## Author
 
 - Frontend Mentor - [@souledspirit](https://www.frontendmentor.io/profile/souledspirit)
 - Twitter - [@souledspirit](https://www.twitter.com/souledspirit)
-
-```
