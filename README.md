@@ -12,7 +12,7 @@ A responsive QR code component solution for Frontend Mentor challenge. Built wit
 - [Features](#features)
 - [Built With](#built-with)
 - [What I Learned](#what-i-learned)
-- [Live Demo](#live-demo)
+- [Live Demo](https://souledspirit.github.io/fm-qr-code-component/)
 - [Author](#author)
 
 ## Features
